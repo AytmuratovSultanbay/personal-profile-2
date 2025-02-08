@@ -78,9 +78,7 @@ section {
     letter-spacing: 2px;
     line-height: 1.6;
 }
-.section {
-    gap: 40px;
-}
+
 #contact .content {
     width: 100%;
     gap: 40px;
